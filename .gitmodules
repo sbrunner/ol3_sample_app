@@ -1,3 +1,6 @@
 [submodule "ol3"]
 	path = ol3
 	url = https://github.com/openlayers/ol3.git
+[submodule "closure-library"]
+	path = closure-library
+	url = http://code.google.com/p/closure-library/
